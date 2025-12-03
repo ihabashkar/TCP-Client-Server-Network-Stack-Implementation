@@ -89,7 +89,7 @@ The server will wait until a client connects.
 
 In a second terminal, run:
 
-**./bin/client 127.0.0.1**
+**./bin/client 192.168.1.248**
 
 
 If successful, you will see:
