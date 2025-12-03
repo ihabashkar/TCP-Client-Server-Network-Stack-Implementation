@@ -28,14 +28,23 @@ The main goals are:
 
 ## 2. Project Structure
 project/
+
 │
+
 ├── src/
+
 │ ├── server.cpp
+
 │ └── client.cpp
+
 │
+
 ├── bin/
+
 │ (compiled binaries appear here after running make)
+
 │
+
 └── Makefile
 
 
