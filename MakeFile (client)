@@ -1,0 +1,13 @@
+CXX = g++
+CXXFLAGS = -Wall -Wextra
+
+all: client
+
+client: client.cpp
+	$(CXX) $(CXXFLAGS) -o client client.cpp
+
+run-client: client
+	./client
+
+clean:
+	rm -f client
