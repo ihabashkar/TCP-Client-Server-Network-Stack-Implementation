@@ -203,5 +203,5 @@ This project is intended for educational use and learning purposes only. :D
 - **<netinet/in.h>** – Defines socket address structures and constants for IPv4 networking.
 - **<sys/socket.h>** – Core POSIX socket API used to create and manage network connections.
 - **<unistd.h>** – Provides system calls like close() used for releasing socket resources.
-
+- **GeeksforGeeks** – Used as a reference for understanding networking concepts, socket programming, system calls, and IPC mechanisms.
 
