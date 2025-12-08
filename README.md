@@ -98,7 +98,9 @@ The server will wait until a client connects.
 
 In a second terminal, run:
 
-**./bin/client 192.168.1.248**
+**./bin/client <server_ip>**
+
+Note: To find your server IP, run ifconfig in FreeBSD, and find the IP address that matches accordingly. For example, it may say something like: "ipnet6: 172.20.10.6"
 
 
 If successful, you will see:
