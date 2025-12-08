@@ -194,3 +194,14 @@ Bowie State University
 
 This project is intended for educational use and learning purposes only. :D
 
+## 10. References
+### Libraries Used
+
+- **<arpa/inet.h>** – Provides IP conversion and handling functions (inet_ntop, inet_pton).
+- **<cstring>** – Used for memory operations such as memset() to initialize structures.
+- **<iostream>** – Standard C++ I/O library for printing output.
+- **<netinet/in.h>** – Defines socket address structures and constants for IPv4 networking.
+- **<sys/socket.h>** – Core POSIX socket API used to create and manage network connections.
+- **<unistd.h>** – Provides system calls like close() used for releasing socket resources.
+
+
